@@ -5,3 +5,4 @@ https://github.com/happen2me/freebase-wikidata-convert/tree/main/artifacts
 
 The 'Release' folder contains the dataset. All uploaded here. However, if you cannot reach any of them, you can still download the 'Release' folder from below.
 https://www.microsoft.com/en-us/download/details.aspx?id=52312
+
