@@ -1,4 +1,4 @@
-The project is implemented on the main notebook above on the colab environment.
+The project is implemented on the main notebook above on the colab environment. The code notebook is explain by comments and textual descriptions. 
 
 The 'artifactsWiki' folder files are taken from the below repository. If you cannot reach any of them here, you can use from there these files.
 https://github.com/happen2me/freebase-wikidata-convert/tree/main/artifacts
